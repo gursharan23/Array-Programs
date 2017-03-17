@@ -1,0 +1,5 @@
+/Users/gursharan23/RiderProjects/assingnment4/assingnment4/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/gursharan23/RiderProjects/assingnment4/assingnment4/bin/Debug/assingnment4.exe.mdb
+/Users/gursharan23/RiderProjects/assingnment4/assingnment4/bin/Debug/assingnment4.exe
+/Users/gursharan23/RiderProjects/assingnment4/assingnment4/obj/Debug/assingnment4.exe
+/Users/gursharan23/RiderProjects/assingnment4/assingnment4/obj/Debug/assingnment4.exe.mdb
